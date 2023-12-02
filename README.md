@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [snap](https://snap-landingpage.vercel.app/)
 
 ## My process
 
@@ -30,8 +30,8 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [VueJS](https://vuejs.org/)
-- [TailwindCSS](https://tailwindcss.com//) - React framework
-- [Preline](https://preline.co/index.html) - For styles
+- [TailwindCSS](https://tailwindcss.com//)
+- [Preline](https://preline.co/index.html)
 
 ### What I learned
 
